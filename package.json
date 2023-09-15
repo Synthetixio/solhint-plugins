@@ -5,8 +5,7 @@
   "main": "index.js",
   "license": "MIT",
   "workspaces": [
-    "packages/solhint-plugin-payable",
-    "packages/solhint-plugin-erc2771"
+    "packages/*"
   ],
   "private": true
 }
