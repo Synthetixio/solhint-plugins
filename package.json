@@ -1,11 +1,12 @@
 {
-	"name": "solhint-plugins",
-	"version": "1.0.0",
-	"description": "Monorepo of solhint plugins used for synthetix",
-	"main": "index.js",
-	"license": "MIT",
-	"workspaces": [
-		"packages/solhint-plugin-payable"
-	],
-	"private": true
+  "name": "solhint-plugins",
+  "version": "1.0.0",
+  "description": "Monorepo of solhint plugins used for synthetix",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "packages/solhint-plugin-payable",
+    "packages/solhint-plugin-erc2771"
+  ],
+  "private": true
 }
