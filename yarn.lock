@@ -1031,9 +1031,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"solhint-plugin-erc2771@workspace:packages/solhint-plugin-erc2771":
+"solhint-plugin-meta-transactions@workspace:packages/solhint-plugin-meta-transactions":
   version: 0.0.0-use.local
-  resolution: "solhint-plugin-erc2771@workspace:packages/solhint-plugin-erc2771"
+  resolution: "solhint-plugin-meta-transactions@workspace:packages/solhint-plugin-meta-transactions"
   dependencies:
     solhint: 3.3.7
   peerDependencies:
