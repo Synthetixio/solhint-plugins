@@ -5,6 +5,7 @@
 		"access": "public"
 	},
 	"description": "Solhint plugin for ensuring all functions are payable",
+	"repository": "github:Synthetixio/solhint-plugins",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo No tests"

@@ -2,6 +2,7 @@
   "name": "solhint-plugins",
   "version": "1.0.0",
   "description": "Monorepo of solhint plugins used for synthetix",
+  "repository": "github:Synthetixio/solhint-plugins",
   "main": "index.js",
   "license": "MIT",
   "workspaces": [
