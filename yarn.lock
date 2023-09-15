@@ -1041,6 +1041,16 @@ __metadata:
   languageName: unknown
   linkType: soft
 
+"solhint-plugin-numcast@workspace:packages/solhint-plugin-numcast":
+  version: 0.0.0-use.local
+  resolution: "solhint-plugin-numcast@workspace:packages/solhint-plugin-numcast"
+  dependencies:
+    solhint: 3.3.7
+  peerDependencies:
+    solhint: ^3.0.0
+  languageName: unknown
+  linkType: soft
+
 "solhint-plugin-payable@workspace:packages/solhint-plugin-payable":
   version: 0.0.0-use.local
   resolution: "solhint-plugin-payable@workspace:packages/solhint-plugin-payable"
