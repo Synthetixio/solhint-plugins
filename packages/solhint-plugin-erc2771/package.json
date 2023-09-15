@@ -4,14 +4,14 @@
   "publishConfig": {
     "access": "public"
   },
-  "description": "Solhint plugin for ensuring all functions are payable",
+  "description": "Solhint plugin for ensuring implementation of erc2771 (Secure Protocol for Native Meta Transactions)",
   "main": "index.js",
   "scripts": {
     "test": "echo No tests"
   },
   "keywords": [
     "solidity",
-    "casting",
+    "erc2771",
     "solhint"
   ],
   "author": "Synthetix CCs",
