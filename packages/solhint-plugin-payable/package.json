@@ -1,0 +1,25 @@
+{
+	"name": "solhint-plugin-payable",
+	"version": "0.1.0",
+	"publishConfig": {
+		"access": "public"
+	},
+	"description": "Solhint plugin for ensuring all functions are payable",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo No tests"
+	},
+	"keywords": [
+		"solidity",
+		"casting",
+		"solhint"
+	],
+	"author": "Synthetix CCs",
+	"license": "MIT",
+	"peerDependencies": {
+		"solhint": "^3.0.0"
+	},
+	"devDependencies": {
+		"solhint": "3.3.7"
+	}
+}
